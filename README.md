@@ -1,9 +1,9 @@
-<h1 align="center">Hii beautiful ppl! Ojima here.</h1>
-<h4 align="center">Full stack developer in construction ✨</h4>
+<h1 align="left">Hii beautiful ppl! Ojima here.</h1>
+<h4 align="left">Full stack developer in construction ✨</h4>
 <br>
 <br>
 
-- 🌱 I’m currently learning **Web Development at Trybe.**
+- 🌱 I’m currently learning **Web Development at Trybe**
 
 <div align="left">
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojimaluis&theme=synthwave" alt="ojima" /></a> </p>
