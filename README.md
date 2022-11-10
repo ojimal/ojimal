@@ -1,13 +1,16 @@
+
 # Hi there, beautiful ppl!
 
-Ojima here, full stack developer in construction ✨
+<img style="border: 10px" align="left" src="https://pa1.narvii.com/7199/1d27025c916a4ac42c9b1a0095177cbe11fa8692r1-200-200_128.gif" alt="gif-greetings" width="70px" />
 
-🌱 I’m currently learning Web Development at Trybe.
+ Ojima here, full stack developer in construction
+ 
+ I’m currently learning Web Development at Trybe <br/> <br/>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=ojimaluis&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width="398px" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojimaluis&theme=dracula&hide_border=true" width="398px" />
-  <img src="https://github-trophies.vercel.app/?username=ojimaluis&theme=dracula&no-frame=true&no-bg=false&margin-w=4" width="800px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ojimaluis&theme=merko&hide_border=true&include_all_commits=false&count_private=true" width="398px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojimaluis&theme=merko&hide_border=true" width="398px" />
+  <img src="https://github-trophies.vercel.app/?username=ojimaluis&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="800px"/>
 </div> 
 
 
