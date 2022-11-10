@@ -1,32 +1,21 @@
-<h1 align="left">Hii beautiful ppl! Ojima here.</h1>
-<h4 align="left">Full stack developer in construction ✨</h4>
-<br>
-<br>
+# 💫About Me :
+Hi there, beautiful ppl!
 
-- 🌱 I’m currently learning **Web Development at Trybe**
+Ojima here, full stack developer in construction ✨
 
-<div align="left">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojimaluis&theme=synthwave" alt="ojima" /></a> </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojimaluis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ojimaluis&theme=synthwave&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats" alt="ojima" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojimaluis&layout=compact&langs_count=7&theme=synthwave"/><br/>
-</div>
+🌱 I’m currently learning Web Development at Trybe.
 
-<div align="left" style="display: inline-block"><br>
-<table><tr><td valign="top" width="49%"> 
-<h3>Front-end</h3>
-  <img align="center" alt="ojima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ojima-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ojima-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ojima-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ojima-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="ojima-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-</div>
-</td><td valign="top" width="49%">
-<h3>Testes</h3>
-<div align="center" style="display: inline-block"><br>
-  <img align="center" alt="ojima-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="ojima-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-</div>
-</td></tr></table>  
-</div>
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ojima) 
+
+# Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+
+# GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ojimaluis&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ojimaluis&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ojimaluis&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ojimaluis&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
