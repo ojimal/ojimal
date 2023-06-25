@@ -10,7 +10,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ojimaluis&theme=merko&hide_border=true&include_all_commits=false&count_private=true" width="398px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojimaluis&theme=merko&hide_border=true" width="398px" />
-  <img src="https://github-trophies.vercel.app/?username=ojimaluis&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="800px"/>
+<!--   <img src="https://github-trophies.vercel.app/?username=ojimaluis&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="800px"/> -->
 </div> 
 
 
