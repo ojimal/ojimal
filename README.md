@@ -3,9 +3,7 @@
 
 <img style="border: 10px" align="left" src="https://pa1.narvii.com/7199/1d27025c916a4ac42c9b1a0095177cbe11fa8692r1-200-200_128.gif" alt="gif-greetings" width="70px" />
 
- Ojima here, full stack developer in construction
- 
- I’m currently learning Web Development at Trybe <br/> <br/>
+ <br/> <br/>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ojimaluis&theme=merko&hide_border=true&include_all_commits=false&count_private=true" width="398px" />
